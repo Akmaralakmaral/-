@@ -1,0 +1,6 @@
+﻿  Task2Laba8.cpp
+C:\Users\Акмарал\Desktop\3 КУРС ВЕСЕННИЙ СЕМЕСТР\ООП\Лабы\ООП_лаба8\Task2Laba8\Task2Laba8.cpp(11,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Акмарал\Desktop\3 КУРС ВЕСЕННИЙ СЕМЕСТР\ООП\Лабы\ООП_лаба8\Task2Laba8\Task2Laba8.cpp(10,1): message : во время компиляции функции-члена класс шаблон "ArraySum<double,5>::ArraySum(void)"
+C:\Users\Акмарал\Desktop\3 КУРС ВЕСЕННИЙ СЕМЕСТР\ООП\Лабы\ООП_лаба8\Task2Laba8\Task2Laba8.cpp(62,25): message : выполняется компиляция ссылки на экземпляр шаблон функции "ArraySum<double,5>::ArraySum(void)"
+C:\Users\Акмарал\Desktop\3 КУРС ВЕСЕННИЙ СЕМЕСТР\ООП\Лабы\ООП_лаба8\Task2Laba8\Task2Laba8.cpp(62,25): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "ArraySum<double,5>"
+  Task2Laba8.vcxproj -> C:\Users\Акмарал\Desktop\3 КУРС ВЕСЕННИЙ СЕМЕСТР\ООП\Лабы\ООП_лаба8\x64\Debug\Task2Laba8.exe
